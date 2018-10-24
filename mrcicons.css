@@ -3,5 +3,5 @@
   font-style: normal;
   font-weight: 400;
   src: local('mrc-icons'),
-    url(https://raw.githubusercontent.com/stoneliving/webfont/master/mrc-icons.ttf) format('truetype');
+    url(https://raw.githubusercontent.com/stoneliving/webfont/master/mrc-icons.ttf) format('truetype'); 
 }
